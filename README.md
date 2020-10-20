@@ -2,7 +2,7 @@
 
 Что это?
 -
-Модуль для работы с Google Analytics Core Reporting API v4 и Management API v3
+Модуль для работы с Core Reporting API v4 и Management API v3
 
 Что он умеет?
 -
